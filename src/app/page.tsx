@@ -22,7 +22,6 @@ import Image from "next/image";
 
 import slide1 from "../../src/images/Slide1.png"
 import slide2 from "../../src/images/Slide2.png"
-import slide3 from "../../src/images/Slide3.png"
 import slide4 from "../../src/images/Slide4.png"
 import slide5 from "../../src/images/Slide5.png"
 import slide6 from "../../src/images/Slide6.png"
